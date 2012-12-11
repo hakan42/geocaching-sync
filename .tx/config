@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[geocaching-sync.geocaching-sync-strings]
+file_filter = geocaching-sync/res/values-<lang>/strings.xml
+source_file = geocaching-sync/res/values/strings.xml
+source_lang = en
+type = ANDROID
+
